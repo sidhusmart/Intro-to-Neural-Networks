@@ -25,6 +25,8 @@ The primary entry point is main.py which gives you three options -
 3. To create a training dataset that captures screenshot images whenever you press the Up arrow key (JUMP) and Right arrow key (NOJUMP)
 	Please note to change the settings of the screenshot to be captured specifically for your display
 
+The trained model itself proved to be very large to be uploaded directly to git and I had to use Git Large File System - so you should be able to download using the link in modelParameters.hdf5 in this repo.
+
 # Slides
 
 The slides used for this short talk are also available in PDF and PPT format.
