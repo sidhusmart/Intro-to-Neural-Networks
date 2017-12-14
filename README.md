@@ -6,14 +6,14 @@ Inspired from [this](https://github.com/asingh33/SupervisedChromeTrex/blob/maste
 This version works on Linux and uses the following libraries - 
 
 Key Requirements:
-Python 2.7.13
-OpenCV 2.4.8
-Keras 2.0.2
-Theano 0.9.0
-pynput
-pyscreenshot
-pykeyboard
-PIL
+Python 2.7.13\n
+OpenCV 2.4.8\n
+Keras 2.0.2\n
+Theano 0.9.0\n
+pynput\n
+pyscreenshot\n
+pykeyboard\n
+PIL\n
 
 # Usage
 
